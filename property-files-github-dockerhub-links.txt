@@ -1,0 +1,13 @@
+Property files GitHub : https://github.com/AkshayTR2023/insurance-policy-properties
+
+DockerHub Images URL:
+https://hub.docker.com/r/akshaytr19/insurance-admin
+https://hub.docker.com/r/akshaytr19/insurance-address
+https://hub.docker.com/r/akshaytr19/insurance-customer
+https://hub.docker.com/r/akshaytr19/insurance-customer-queries
+https://hub.docker.com/r/akshaytr19/insurance-contact-form
+https://hub.docker.com/r/akshaytr19/insurance-email
+https://hub.docker.com/r/akshaytr19/insurance-policy
+https://hub.docker.com/r/akshaytr19/insurance-policy-categories
+https://hub.docker.com/r/akshaytr19/insurance-config-server
+https://hub.docker.com/r/akshaytr19/insurance-eureka-server
